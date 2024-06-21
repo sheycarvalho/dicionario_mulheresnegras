@@ -13,3 +13,10 @@ Busquei me aprofundar na temática, e decidi acrescentar mais mulheres com hist�
 - HTML5: 🌐
 - CSS3: 🎨
 - JavaScript: 🚀
+
+## Demonstração
+[screen-capture (1).webm](https://github.com/renataarruda/dicionario_de_mulheresnegras/assets/91355221/e7860b47-5fe3-4a37-a246-44a120e0d49e)
+
+
+##
+Desenvolvido em junho de 2024.
