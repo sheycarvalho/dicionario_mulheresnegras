@@ -15,7 +15,7 @@ Busquei me aprofundar na temática, e decidi acrescentar mais mulheres com hist�
 - JavaScript: 🚀
 
 ## Demonstração
-[screen-capture](https://github.com/sheycarvalho/dicionario_mulheresnegras/assets/blackwomen)
+[screen-capture](https://github.com/sheycarvalho/dicionario_mulheresnegras/assets/black women.webm)
 
 
 ##
