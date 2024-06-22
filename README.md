@@ -14,9 +14,5 @@ Busquei me aprofundar na temática, e decidi acrescentar mais mulheres com hist�
 - CSS3: 🎨
 - JavaScript: 🚀
 
-## Demonstração
-[screen-capture](https://github.com/sheycarvalho/dicionario_mulheresnegras/assets/blackwomen.webm)
-
-
 ##
 Desenvolvido em junho de 2024.
