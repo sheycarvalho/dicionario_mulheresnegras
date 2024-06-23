@@ -26,7 +26,7 @@ function addCards(){
   
       descricao:
   
-          "A primeira mulher negra a assumir um mandato popular no Brasil. Mas seu mandato é interrompido pelo golpe de Getúlio Vargas, antes disso, escreve dois capítulos da Constituição catarinense sobre Educação, Cultura e Funcionalismo e assim assina outro pioneirismo em 1937, ela se transforma na primeira mulher negra a presidir uma Assembleia Legislativa. Jornalista, professora e representante do povo, um símbolo à causa social, defendendo a emancipação feminina através da educação. Travou incansáveis batalhas contra o analfabetismo. Filha de escrava liberta e órfã de pai. Após lecionar em várias escolas, criou seu próprio colégio do qual foi diretora até a morte.",
+          "A primeira mulher negra a assumir um mandato popular no Brasil. Mas seu mandato é interrompido pelo golpe de Getúlio Vargas, antes disso, escreve dois capítulos da Constituição catarinense sobre Educação, Cultura e Funcionalismo e assim assina outro pioneirismo em 1937. Ela se transforma na primeira mulher negra a presidir uma Assembleia Legislativa. Jornalista, professora e representante do povo, um símbolo à causa social, defendendo a emancipação feminina através da educação. Travou incansáveis batalhas contra o analfabetismo. Filha de escrava liberta e órfã de pai. Após lecionar em várias escolas, criou seu próprio colégio do qual foi diretora até a morte.",
   
       citacao:
   
@@ -67,13 +67,13 @@ function addCards(){
   
     bio05: {
   
-      nome: "Carolina de Jesus",
+      nome: "Carolina Maria de Jesus",
   
         imagem: "./assets/img/carolina de jesus.png",
   
         descricao:
   
-            "Carolina Maria de Jesus foi uma escritora, compositora, cantora e poetisa brasileira, conhecida por seu livro Quarto de Despejo: Diário de uma Favelada publicado em 1960. Considerada uma das primeiras e mais importantes escritoras negras do Brasil. A autora viveu boa parte de sua vida na favela do Canindé, na zona norte de São Paulo, sustentando a si mesma e seus três filhos como catadora de papéis. Em 1958 tem seu diário publicado sob o nome Quarto de Despejo, com auxílio do jornalista Audálio Dantas. O livro fez um enorme sucesso e chegou a ser traduzido para quatorze línguas. Foi uma das escritoras mais lidas do país." ,
+            "Foi uma escritora, compositora, cantora e poetisa brasileira, conhecida por seu livro 'Quarto de Despejo: Diário de uma Favelada' publicado em 1960. Considerada uma das primeiras e mais importantes escritoras negras do Brasil. A autora viveu boa parte de sua vida na favela do Canindé, na zona norte de São Paulo, sustentando a si mesma e seus três filhos como catadora de papeis. Em 1958 tem seu diário publicado sob o nome Quarto de Despejo, com auxílio do jornalista Audálio Dantas. O livro fez um enorme sucesso e chegou a ser traduzido para quatorze línguas. Foi uma das escritoras mais lidas do país." ,
   
         citacao:
         
