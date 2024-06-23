@@ -8,7 +8,7 @@ function addCards(){
     
           descricao:
     
-              "Angela Yvonne Davis é uma professora, filósofa socialista e militante estadunidense que e o símbolo mais conhecido do feminismo negro. Teve participação no Partido Comunista dos EUA e grupo político Panteras Negras. Personagem de um dos mais polêmicos e famosos julgamentos criminais dos EUA, causando uma comoção internacional. Ativista que luta contra discriminação social e racial, tem como pautas os direitos civis, abolicionismo e antirracismo.",
+              "Angela Yvonne Davis é uma professora, filósofa socialista e militante estadunidense e o símbolo mais conhecido do feminismo negro. Teve participação no Partido Comunista dos EUA e grupo político Panteras Negras. Personagem de um dos mais polêmicos e famosos julgamentos criminais dos EUA, causando uma comoção internacional. Ativista que luta contra discriminação social e racial, tem como pautas os direitos civis, abolicionismo e antirracismo.",
     
           citacao:
     
