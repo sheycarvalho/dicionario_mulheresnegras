@@ -534,7 +534,7 @@ function addCards(){
     
           descricao:
     
-              "Stella do Patrocínio teve sua juventude marcada após receber o diagnóstico de esquizofrenia e ser institucionalizada involuntariamente em diversos centros psiquiátricos no Rio de Janeiro após ser abordada pela polícia aos 21 anos. Sua vida ganhou uma nova dimensão em 1986, a partir do 'Projeto de Livre Criação Artística' realizado no Núcleo Teixeira Brandão, onde Stella se destacou como poetisa. Apenas após sua morte em 1992, os registros realizados dos seus 'falatórios' passaram a ser destacados pela luta antimanicomial brasileira, tendo sua voz e história lembradas como símbolo dos efeitos e apagamentos causados pelos manicômios na história hospitalar do país.",
+              "Teve sua juventude marcada após receber o diagnóstico de esquizofrenia, e ser institucionalizada involuntariamente em diversos centros psiquiátricos no Rio de Janeiro, após ser abordada pela polícia aos 21 anos. Sua vida ganhou uma nova dimensão em 1986, a partir do 'Projeto de Livre Criação Artística' realizado no Núcleo Teixeira Brandão, onde Stella se destacou como poetisa. Apenas após sua morte em 1992, os registros realizados dos seus 'falatórios' passaram a ser destacados pela luta antimanicomial brasileira, tendo sua voz e história lembradas como símbolo dos efeitos e apagamentos causados pelos manicômios na história hospitalar do país.",
     
           citacao:
           
